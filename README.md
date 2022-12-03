@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kemthecoder
 - 👀 I’m interested in Cloud Computing, Fullstack Development and Mobile App Development.
 - 🌱 I’m currently learning how to develop mobile applications using Flutter.
-- 💞️ I’m looking to collaborate on projects that allow me to demonstrate any of the skills in my coding stack (i.e. C++, Java, PHP , Javascript, Node Js etc..)
+- 💞️ I’m looking to collaborate on projects that involve C++,HTML,CSS, Java, PHP, Javascript, Node Js, React and Dart.
 
 
 <!---
